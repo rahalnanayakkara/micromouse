@@ -1,6 +1,8 @@
 # Micromouse
 This micromouse was designed and built to compete at the SLIIT Robofest 2019.
 
+Link to [repo](https://github.com/rahalnanayakkara/micromouse)
+
 ![Robot](./images/robot_final.jpeg)
 
 Our team was placed 3rd overall (2nd runner up) at the final competition
