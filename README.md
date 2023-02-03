@@ -13,7 +13,7 @@ Other team members were :
 1. [Heshan Dissanayake](https://github.com/HeshanDissanayake)
 2. [Praveen Dhananjaya](https://github.com/praveendhananjaya)
 3. Sanushka Kahatapitiya
-4. Praditha Alwis
+4. [Praditha Alwis](https://github.com/LostInArgand)
 
 ## Hardware Design and Development
 
